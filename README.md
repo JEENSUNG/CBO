@@ -1,0 +1,2 @@
+# CBO
+This is based on FireBase(low-capacity) If you would like Baseball game(or KBO, MLB watching), this app is qualified for you. This app features like Baseball images, videos, articles. so anyone can see these data. And Reply function is mounted at this app too. So anyone who uses this app maybe do funny. Because of this app's low database, low sending speed could dissatisfy you. So I will thank that you would remind this app is my first Application. Thanks.
